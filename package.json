@@ -1,0 +1,14 @@
+{
+  "name": "contralto-tool",
+  "version": "0.0.1",
+  "description": "This is a small commandline tool to help with the setup of teletenor-contralto, which is a serverless deployment of teletenor.",
+  "main": "contralto.js",
+  "scripts": {},
+  "author": "tabby-jun",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "crypto-random-string": "^3.2.0",
+    "got": "^10.7.0",
+    "yargs": "^15.3.1"
+  }
+}
